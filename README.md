@@ -1,4 +1,4 @@
-# leyou-manage-web
+# leYou-admin-static
 
 > A Vue.js project
 
